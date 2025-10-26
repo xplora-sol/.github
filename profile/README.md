@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="220" alt="app-logo" src="https://github.com/user-attachments/assets/fe1c489a-e5ac-4fb3-b970-d3990002f404" />
+</p>
+
 # Xplora 🗺️✨
 
 > **Exploration Meets Innovation**
